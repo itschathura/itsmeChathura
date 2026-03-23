@@ -1,5 +1,5 @@
 // ============================================================
-// App.jsx — ItsChathura Portfolio  |  Chathura Dharmasiri
+// App.jsx — ItsChathura Portfolio  |  Chathura Dharmasiri  .
 // ============================================================
 import f1Cover from './assets/images/p1_pitstop.png'
 import math from './assets/images/p2_math.png'
