@@ -1,9 +1,9 @@
 // ============================================================
 // App.jsx — ItsChathura Portfolio  |  Chathura Dharmasiri  .
 // ============================================================
-import f1Cover from './assets/images/p1_pitstop.png'
-import math from './assets/images/p2_math.png'
-import xtreme from './assets/images/p3_xtreme.png'
+import f1Cover from './assets/Images/p1_pitstop.png'
+import math from './assets/Images/p2_math.png'
+import xtreme from './assets/Images/p3_xtreme.png'
 import { useEffect, useRef, useState, useCallback } from 'react'
 import emailjs from '@emailjs/browser'
 
